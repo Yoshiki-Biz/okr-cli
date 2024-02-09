@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-okrcli-dev-100712-authRole",
+      "UnauthRoleArn": "arn:aws:iam::280868869855:role/amplify-okrcli-dev-100712-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::280868869855:role/amplify-okrcli-dev-100712-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-okrcli-dev-100712-deployment",
+      "UnauthRoleName": "amplify-okrcli-dev-100712-unauthRole",
+      "StackName": "amplify-okrcli-dev-100712",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:280868869855:stack/amplify-okrcli-dev-100712/efcc3730-a2c1-11ee-b091-0acbcaf7cf8d",
+      "AmplifyAppId": "d1nobq1fh71ox2"
+    },
+    "categories": {
+      "auth": {
+        "okrcli09c0b6fd": {}
+      }
+    }
+  }
+}
